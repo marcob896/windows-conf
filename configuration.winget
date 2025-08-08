@@ -97,14 +97,6 @@ properties:
         id: Zoom.Zoom
         source: winget
     - resource: Microsoft.WinGet.DSC/WinGetPackage
-      id: NodeJS
-      directives:
-        description: Install Node.js LTS
-        securityContext: elevated
-      settings:
-        id: OpenJS.NodeJS.LTS
-        source: winget
-    - resource: Microsoft.WinGet.DSC/WinGetPackage
       id: Calibre
       directives:
         description: Install Calibre
@@ -153,14 +145,6 @@ properties:
         id: Discord.Discord
         source: winget
     - resource: Microsoft.WinGet.DSC/WinGetPackage
-      id: Figma
-      directives:
-        description: Install Figma
-        securityContext: elevated
-      settings:
-        id: Figma.Figma
-        source: winget
-    - resource: Microsoft.WinGet.DSC/WinGetPackage
       id: MongoDBCompass
       directives:
         description: Install MongoDB Compass
@@ -201,14 +185,6 @@ properties:
         id: Telegram.TelegramDesktop
         source: winget
     - resource: Microsoft.WinGet.DSC/WinGetPackage
-      id: Keyviz
-      directives:
-        description: Install Keyviz
-        securityContext: elevated
-      settings:
-        id: mulaRahul.Keyviz
-        source: winget
-    - resource: Microsoft.WinGet.DSC/WinGetPackage
       id: VisualStudioCode
       directives:
         description: Install Visual Studio Code
@@ -223,5 +199,45 @@ properties:
         securityContext: elevated
       settings:
         id: Microsoft.WindowsTerminal
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: GoogleChrome
+      directives:
+        description: Install Google Chrome
+        securityContext: elevated
+      settings:
+        id: Google.Chrome
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: OBSStudio
+      directives:
+        description: Install OBS Studio
+        securityContext: elevated
+      settings:
+        id: OBSProject.OBSStudio
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: DBeaver
+      directives:
+        description: Install DBeaver
+        securityContext: elevated
+      settings:
+        id: DBeaver.DBeaver.Community
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: FoxitPDFReader
+      directives:
+        description: Install Foxit PDF Reader
+        securityContext: elevated
+      settings:
+        id: Foxit.FoxitReader.Inno
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: PowerToys
+      directives:
+        description: Install PowerToys
+        securityContext: elevated
+      settings:
+        id: Microsoft.PowerToys
         source: winget
   configurationVersion: 0.2.0

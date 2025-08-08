@@ -1,0 +1,319 @@
+   -    \    |    /    -    \                                                                                                                           ██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1024 KB / 2.13 MB  ████████████████████████████▒▒  2.00 MB / 2.13 MB  ██████████████████████████████  2.13 MB / 2.13 MB                                                                                                                          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1%  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  2%  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3%  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  4%  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  5%  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  6%  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  7%  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  8%  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  9%  ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  10%  ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  11%  ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  12%  ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  13%  █████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  30%  █████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  31%  ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  36%  ███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  37%  ███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  38%  ████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  43%  █████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  44%  █████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  45%  █████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  46%  ██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  47%  ██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  48%  ██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  49%  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  50%  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  51%  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  52%  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  53%  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  54%  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  55%  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  56%  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  56%  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  57%  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  59%  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  60%  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  61%  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  62%  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  63%  ███████████████████▒▒▒▒▒▒▒▒▒▒▒  64%  █████████████████████▒▒▒▒▒▒▒▒▒  70%  █████████████████████▒▒▒▒▒▒▒▒▒  72%  ████████████████████████▒▒▒▒▒▒  83%  █████████████████████████████▒  99%  █████████████████████████████▒  99%  ██████████████████████████████  100%                                                                                                                           -    \    |    /    -    \    |                                                                                                                         Nome                                        Id                                           Versione         Disponibile
+-----------------------------------------------------------------------------------------------------------------------
+ShareX                                      ShareX.ShareX                                16.1.0           17.1.0
+Audacity 3.7.3                              Audacity.Audacity                            3.7.3            3.7.5
+AutoFirma                                   SpanishGovernment.Autofirma                  1.8.3            1.9
+Bitdefender Total Security                  ARP\Machine\X64\Bitdefender                  25.0.14.58       
+Bitdefender Agent                           Bitdefender.Bitdefender                      27.1.1.14        
+Bitdefender VPN                             ARP\Machine\X64\Bitdefender VPN              27.2.3.8         
+CCleaner                                    ARP\Machine\X64\CCleaner                     6.38             
+Ditto                                       Ditto.Ditto                                  Unknown          3.24.246.0
+Docker Desktop                              Docker.DockerDesktop                         4.43.2           4.44.0
+Fairlight Audio Accelerator Utility         ARP\Machine\X64\FairlightAudioAccelerator_i… 1.0.15           
+Git                                         Git.Git                                      2.50.1           
+HP LaserJet Professional P1100-P1560-P1600… ARP\Machine\X64\HP LaserJet Professional P1… Unknown          
+HP Documentation                            ARP\Machine\X64\HP_Documentation             1.0.0.1          
+GDR 1125 per SQL Server 2022 (KB5042211) (… ARP\Machine\X64\KB5042211                    16.0.1125.1      
+GDR 1130 per SQL Server 2022 (KB5046057) (… ARP\Machine\X64\KB5046057                    16.0.1130.5      
+GDR 1135 per SQL Server 2022 (KB5046861) (… ARP\Machine\X64\KB5046861                    16.0.1135.2      
+GDR 1140 per SQL Server 2022 (KB5058712) (… ARP\Machine\X64\KB5058712                    16.0.1140.6      
+Microsoft SQL Server 2022 (64-bit)          ARP\Machine\X64\Microsoft SQL Server SQL2022 Unknown          
+Microsoft Visual Studio 2010 Tools for Off… Microsoft.VSTOR                              10.0.60910       10.0.60917
+Microsoft Visual Studio 2010 Tools per Off… ARP\Machine\X64\Microsoft Visual Studio 201… 10.0.60910       
+Microsoft 365 Apps for business - it-it     ARP\Machine\X64\O365BusinessRetail - it-it   16.0.19131.20000 
+Microsoft OneDrive                          Microsoft.OneDrive                           25.140.0720.0001 
+Microsoft Project - en-us                   ARP\Machine\X64\ProjectProRetail - en-us     16.0.19131.20000 
+Smart Connect                               Motorola.SmartConnect                        8.0.0.109.000    8.0.0.114.000
+VBCABLE, The Virtual Audio Cable            ARP\Machine\X64\VB:VBCABLE {87459874-1236-4… Unknown          
+VLC media player                            ARP\Machine\X64\VLC media player             3.0.21           
+Ledger Live 2.113.1                         LedgerHQ.LedgerLive                          2.113.1          2.122.1
+MySQL Connector C++ 8.0                     ARP\Machine\X64\{08C1C9C9-0C03-41FF-8010-D0… 8.0.33           
+Microsoft ODBC Driver 17 for SQL Server     Microsoft.msodbcsql.17                       17.10.6.1        
+IIS 10.0 Express                            ARP\Machine\X64\{0F4F67F8-21E1-422D-B31C-B3… 10.0.10007       
+Microsoft .NET SDK 9.0.302 (x64) from Visu… ARP\Machine\X64\{118C0ABF-1A67-42FC-AE66-74… 9.3.225.31907    
+Microsoft Update Health Tools               ARP\Machine\X64\{1FC1A6C2-576E-489A-9B4A-92… 3.74.0.0         
+ArubaSign                                   ARP\Machine\X64\{20DABB75-9FA2-41A3-98D9-70… 23.0.2           
+7-Zip 24.09 (x64 edition)                   7zip.7zip                                    24.09.00.0       25.01
+Zoom Workplace (64-bit)                     Zoom.Zoom                                    6.4.64360        6.5.9933
+DaVinci Resolve Control Panels              ARP\Machine\X64\{3739CA49-792F-4F1F-9B76-42… 2.3.0.0          
+Office RibbonX Editor                       ARP\Machine\X64\{414e2267-764a-4e61-aa5e-f2… 1.9.0.1056       
+MySQL Server 5.7                            Oracle.MySQL                                 5.7.43           8.4.6
+MySQL Installer - Community                 Oracle.MySQL                                 1.6.7.0          
+Google Chrome                               Google.Chrome                                139.0.7258.66    139.0.7258.67
+Elgato Stream Deck                          Elgato.StreamDeck                            6.7.3.21005      6.9.1.21711
+Google Drive                                Google.GoogleDrive                           112.0.3.0        
+Microsoft Visual Studio Installer           ARP\Machine\X64\{6F320B93-EE3C-4826-85E0-AD… 3.14.2082.42463  
+Microsoft OLE DB Driver for SQL Server      ARP\Machine\X64\{76EB75D2-CCF6-41A9-90B6-92… 18.7.4.0         
+Controllo integrità PC Windows              ARP\Machine\X64\{8BD8402F-CB7B-4B4A-80D1-13… 3.6.2204.08001   
+Microsoft VSS Writer per SQL Server 2022    ARP\Machine\X64\{91304B39-2C20-4A11-A68D-02… 16.0.1000.6      
+MySQL Connector/ODBC 8.0 (64-bit)           ARP\Machine\X64\{9AC93A88-9070-47B0-9EFC-DD… 8.0.33           
+Node.js                                     OpenJS.NodeJS.LTS                            20.11.0          22.18.0
+Microsoft Teams Meeting Add-in for Microso… ARP\Machine\X64\{A7AB73A3-CB10-4AA5-9D38-6A… 1.25.18302       
+Corsair iCUE5 Software                      Corsair.iCUE.5                               Unknown          5.23.97
+ImageGlass                                  DuongDieuPhap.ImageGlass                     9.2.0.1208       9.3.2.520
+NVIDIA Audio Effects SDK                    ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A8… 1.3.0.22         
+NVIDIA Driver grafico 561.19                ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A8… 561.19           
+NVIDIA GeForce Experience 3.20.4.14         ARP\Machine\X64\{B2FE1952-0186-46C3-BAEC-A8… 3.20.4.14        
+NVIDIA PhysX System Software 9.20.0221      Nvidia.PhysX                                 9.20.0221        9.21.0713
+Update for x64-based Windows Systems (KB50… ARP\Machine\X64\{B8D93870-98D1-4980-AFCA-E2… 8.94.0.0         
+Microsoft System CLR Types per SQL Server … ARP\Machine\X64\{C080F956-E307-4699-A52F-60… 15.0.2000.5      
+AWS SAM Command Line Interface              Amazon.SAM-CLI                               1.31.0           1.142.1
+calibre 64bit                               calibre.calibre                              8.3.0            8.8.0
+Microsoft Web Deploy 4.0                    Microsoft.WebDeploy                          10.0.9419        
+Microsoft SQL Server 2019 LocalDB           ARP\Machine\X64\{E5B3A478-C4C3-49E3-8384-A1… 15.0.4382.1      
+Transmission 4.0.6 (38c164933e) (x64)       Transmission.Transmission                    4.0.6            
+Agent Ransack                               Mythicsoft.AgentRansack                      9.3.3503.1       9.3.3522.1
+PuTTY release 0.83 (64-bit)                 PuTTY.PuTTY                                  0.83.0.0         
+MySQL Workbench 8.0 CE                      Oracle.MySQLWorkbench                        8.0.34           8.0.43
+Windows Subsystem for Linux Update          ARP\Machine\X64\{F8474A47-8B5D-4466-ACE3-78… 5.10.102.1       
+Microsoft SQL Server 2022 Setup (English)   ARP\Machine\X64\{FD9391BE-1837-48BA-8134-85… 16.0.1140.6      
+ProjectLibre                                ProjectLibre.ProjectLibre                    1.9.3            1.9.8
+Visual Studio Community 2022                Microsoft.VisualStudio.2022.Community        17.14.9 (July 2… 17.14.11
+AnyDesk                                     AnyDesk.AnyDesk                              ad 9.0.7         9.5.11
+Brave                                       Brave.Brave                                  139.1.81.131     
+Dropbox                                     Dropbox.Dropbox                              229.4.5197       230.3.8648
+EShare 7.6.523                              ARP\Machine\X86\EShare                       7.6.523          
+EShare Audio 1.0.1                          ARP\Machine\X86\EShare Audio                 1.0.1            
+EShare Camera 1.0.1                         ARP\Machine\X86\EShare Camera                1.0.1            
+EShare Virtual Monitor Assistant4 4.0.0.20… ARP\Machine\X86\EShare Virtual Monitor Assi… 4.0.0.20211211   
+ESystemRemoteService 1.1                    ARP\Machine\X86\ESystemRemoteService         1.1              
+Epic Pen                                    ARP\Machine\X86\Epic Pen_is1                 v3.12.148.0      
+FileZilla 3.69.1                            ARP\Machine\X86\FileZilla Client             3.69.1           
+Foxit PDF Reader                            Foxit.FoxitReader.Inno                       2025.1.0.27937   
+GNU Privacy Guard                           GnuPG.GnuPG                                  2.3.4            2.4.8
+Gpg4win (4.0.0)                             GnuPG.Gpg4win                                4.0.0            4.4.1
+Microsoft Edge                              Microsoft.Edge                               138.0.3351.121   139.0.3405.86
+Microsoft Edge Dev                          Microsoft.Edge.Dev                           140.0.3471.0     
+Microsoft Help Viewer 2.3                   ARP\Machine\X86\Microsoft Help Viewer 2.3    2.3.28307        
+NVIDIA AR SDK                               ARP\Machine\X86\NVIDIA AR SDK                0.8.2            
+NVIDIA Video Effects                        Nvidia.VideoEffectsSDK.20xx-Turing           0.7.2            
+OBS Studio                                  OBSProject.OBSStudio                         30.2.3           31.1.2
+DroidCam OBS Plugin                         dev47apps.DroidCamOBSPlugin                  2.3.3            2.4.0
+SyncBackFree                                2BrightSparks.SyncBackFree                   11.3.62.0        11.3.106.0
+foobar2000 v1.6.4                           PeterPawlowski.foobar2000                    1.6.4            2.24.6
+Microsoft Visual C++ 2013 Redistributable … Microsoft.VCRedist.2013.x64                  12.0.40664.0     
+Microsoft Windows Desktop Runtime - 6.0.36… Microsoft.DotNet.DesktopRuntime.6            6.0.36           
+MySQL Connector NET 8.0.33.1                ARP\Machine\X86\{0891A8B8-7D07-4B1C-83AB-28… 8.0.33.1         
+Microsoft Windows Desktop Runtime - 3.1.32… Microsoft.DotNet.DesktopRuntime.3_1          3.1.32           
+Sophos Connect                              ARP\Machine\X86\{177B57FB-27D3-4CEF-8022-BF… 2.4.0004.0520    
+vs_CoreEditorFonts                          ARP\Machine\X86\{1851460E-0E63-4117-B5BA-25… 17.7.40001       
+Windows SDK AddOn                           ARP\Machine\X86\{1E76DFA7-96F3-4281-8E41-8A… 10.1.0.0         
+Microsoft GameInput                         ARP\Machine\X86\{1F2B6AF3-C260-8666-5950-E3… 10.1.22621.3036  
+Hotspot Shield 12.10.2                      ARP\Machine\X86\{2386243a-9298-4549-8589-b1… 12.10.2.12281    
+Microsoft Bing Service                      ARP\Machine\X86\{289FB81C-CDF9-4B34-AD5E-A2… 2.0.0.8          
+Microsoft Visual C++ 2012 Redistributable … Microsoft.VCRedist.2012.x86                  11.0.61030.0     
+HP Audio Switch                             ARP\Machine\X86\{3A5141D4-47DB-4302-9B1C-27… 1.0.179.0        
+Windows Software Development Kit - Windows… Microsoft.WindowsSDK.10.0.19041              10.0.19041.685   
+Python Launcher                             Python.Launcher                              3.12.1           3.13.5
+HP Connection Optimizer                     ARP\Machine\X86\{6468C4A5-E47E-405F-B675-A7… 2.0.17.0         
+Microsoft Windows Desktop Runtime - 8.0.19… Microsoft.DotNet.DesktopRuntime.8            8.0.19           
+MySQL Connector J                           ARP\Machine\X86\{78A9DB14-236C-4092-91B1-77… 8.0.33           
+PowerToys (Preview) x64                     Microsoft.PowerToys                          0.91.1           0.92.1
+Move Transition version 3.0.2               ARP\Machine\X86\{83443BC3-6FCC-4A35-922E-1F… 3.0.2            
+MySQL Documents 8.0                         ARP\Machine\X86\{8896A953-AA44-45EC-92CF-08… 8.0.34           
+PowerShell 7.5.2.0-x64                      Microsoft.PowerShell                         7.5.2.0          
+Microsoft SQL Server Management Studio - 2… Microsoft.SQLServerManagementStudio          20.2             20.2.1
+MySQL Examples and Samples 8.0              ARP\Machine\X86\{9B09281E-E4E5-4205-B7D4-EF… 8.0.34           
+Microsoft Visual C++ 2013 Redistributable … Microsoft.VCRedist.2013.x86                  12.0.40664.0     
+Browser per SQL Server 2022                 ARP\Machine\X86\{E0BED31A-FCF0-4BA5-863F-11… 16.0.1000.6      
+Microsoft Visual C++ 2010  x86 Redistribut… Microsoft.VCRedist.2010.x86                  10.0.40219       
+Microsoft Visual C++ 2015-2022 Redistribut… Microsoft.VCRedist.2015+.x64                 14.42.34438.0    14.44.35211.0
+Microsoft Visual C++ 2015-2022 Redistribut… Microsoft.VCRedist.2015+.x86                 14.42.34438.0    14.44.35211.0
+Microsoft Visual C++ 2012 Redistributable … Microsoft.VCRedist.2012.x64                  11.0.61030.0     
+Microsoft Windows Desktop Runtime - 5.0.14… ARP\Machine\X86\{d21a4f20-968a-4b0c-bf04-a3… 5.0.14.30911     
+DBeaver 24.2.3 (current user)               DBeaver.DBeaver.Community                    24.2.3           25.1.4
+Discord                                     Discord.Discord                              1.0.9002         1.0.9202
+Figma                                       Figma.Figma                                  125.6.5          
+GIMP 2.10.38-1                              ARP\User\X64\GIMP-2_is1                      2.10.38          
+GIMP 3.0.2-1                                GIMP.GIMP.3                                  3.0.2.1          3.0.4.0
+MongoDB Compass                             MongoDB.Compass.Full                         1.46.7           
+Postman x86_64 11.50.5                      Postman.Postman                              11.50.5          11.57.6
+Spotify                                     Spotify.Spotify                              1.2.69.449.gfda… 1.2.70.404.g…
+WinDirStat 1.1.2                            ARP\User\X64\WinDirStat                      Unknown          
+Wispr Flow                                  ARP\User\X64\WisprFlow                       1.3.279          
+Obsidian                                    Obsidian.Obsidian                            1.5.3            1.8.10
+ClickUp 3.5.120                             ClickUp.ClickUp                              3.5.120          
+TweetDeck                                   ARP\User\X64\e0d470f30e27aebc8e5cc6f5852208… 1.0              
+Canva                                       ARP\User\X64\e873ae075595f951497d8336a36c09… 1.0              
+Telegram Desktop                            Telegram.TelegramDesktop                     6.0.2            
+Keyviz version 1.0.6                        mulaRahul.Keyviz                             1.0.6            
+Microsoft Visual Studio Code (User)         Microsoft.VisualStudioCode                   1.103.0          
+Python 3.12.1 (64-bit)                      Python.Python.3.12                           3.12.1           3.12.10
+ShareX                                      MSIX\19568ShareX.ShareX_17.1.0.0_x64__egrzc… 17.1.0.0         
+WhatsApp                                    MSIX\5319275A.WhatsAppDesktop_2.2531.4.0_x6… 2.2531.4.0       
+DevToys-Preview                             MSIX\64360VelerSoftware.DevToys-Preview_2.0… 2.0.8.0          
+Newsflow                                    MSIX\6958MaxN.Newsflow_2.1.12.1000_x64__5jr… 2.1.12.1000      
+Slack                                       MSIX\91750D7E.Slack_4.45.64.0_x64__8she8kyb… 4.45.64.0        
+Energy Star                                 MSIX\AD2F1837.HPInc.EnergyStar_1.2.0.0_x64_… 1.2.0.0          
+HP PC Hardware Diagnostics Windows          MSIX\AD2F1837.HPPCHardwareDiagnosticsWindow… 2.8.0.0          
+HP Smart                                    MSIX\AD2F1837.HPPrinterControl_160.1.1192.0… 160.1.1192.0     
+HP Privacy Settings                         MSIX\AD2F1837.HPPrivacySettings_1.4.14.0_x6… 1.4.14.0         
+HP QuickDrop                                MSIX\AD2F1837.HPQuickDrop_2.5.10921.0_x64__… 2.5.10921.0      
+HP Support Assistant                        MSIX\AD2F1837.HPSupportAssistant_9.46.17.0_… 9.46.17.0        
+HP System Event Utility                     MSIX\AD2F1837.HPSystemEventUtility_3.1.40.0… 3.1.40.0         
+OMEN Audio Control                          MSIX\AD2F1837.OMENAudioControl_1.26.249.0_x… 1.26.249.0       
+HP                                          MSIX\AD2F1837.myHP_47.52530.5546.0_x64__v10… 47.52530.5546.0  
+Adobe Acrobat Reader                        MSIX\AdobeAcrobatReaderCoreApp_23.0.0.0_x64… 23.0.0.0         
+Centro comandi della grafica Intel®         MSIX\AppUp.IntelGraphicsExperience_1.100.56… 1.100.5688.0     
+Intel® OptaneTM Memory and Storage Managem… MSIX\AppUp.IntelOptaneMemoryandStorageManag… 18.1.1042.0      
+Centro di controllo ThunderboltTM           MSIX\AppUp.ThunderboltControlCenter_1.0.37.… 1.0.37.0         
+Ubuntu                                      Canonical.Ubuntu                             2404.1.68.0      
+Microsoft Clipchamp                         MSIX\Clipchamp.Clipchamp_4.3.10120.0_x64__y… 4.3.10120.0      
+Dropbox                                     MSIX\DropboxInc.Dropbox_229.4.5197.0_x64__w… 229.4.5197.0     
+Microsoft Teams                             Microsoft.Teams                              25198.1109.3837… 
+Cortana                                     MSIX\Microsoft.549981C3F5F10_4.2308.1005.0_… 4.2308.1005.0    
+Microsoft Defender                          MSIX\Microsoft.6365217CE6EB4_102.2505.23001… 102.2505.23001.0 
+AV1 Video Extension                         MSIX\Microsoft.AV1VideoExtension_1.3.20.0_x… 1.3.20.0         
+Microsoft Bing                              MSIX\Microsoft.BingSearch_1.1.40.0_x64__8we… 1.1.40.0         
+MSN Meteo                                   MSIX\Microsoft.BingWeather_4.54.63026.0_x64… 4.54.63026.0     
+Riquadro comandi                            MSIX\Microsoft.CommandPalette_0.2.1.0_x64__… 0.2.1.0          
+Programma di installazione app              Microsoft.AppInstaller                       1.26.430.0       
+DirectX                                     MSIX\Microsoft.DirectXRuntime_9.29.1974.0_x… 9.29.1974.0      
+DirectX                                     MSIX\Microsoft.DirectXRuntime_9.29.1974.0_x… 9.29.1974.0      
+Xbox                                        MSIX\Microsoft.GamingApp_2507.1001.9.0_x64_… 2507.1001.9.0    
+Servizi di gioco                            MSIX\Microsoft.GamingServices_29.103.2001.0… 29.103.2001.0    
+Richiesta supporto                          MSIX\Microsoft.GetHelp_10.2409.22951.0_x64_… 10.2409.22951.0  
+Suggerimenti Microsoft                      MSIX\Microsoft.Getstarted_10.2312.1.0_x64__… 10.2312.1.0      
+Estensioni immagini HEIF                    MSIX\Microsoft.HEIFImageExtension_1.2.20.0_… 1.2.20.0         
+Estensioni video HEVC del produttore del d… MSIX\Microsoft.HEVCVideoExtension_2.4.13.0_… 2.4.13.0         
+italiano Pacchetto di esperienze locali     MSIX\Microsoft.LanguageExperiencePackit-IT_… 19041.80.274.0   
+Paint 3D                                    MSIX\Microsoft.MSPaint_6.2410.13017.0_x64__… 6.2410.13017.0   
+Windows Messaggi operatore                  MSIX\Microsoft.Messaging_4.1901.60404.0_x64… 4.1901.60404.0   
+Visualizzatore 3D                           MSIX\Microsoft.Microsoft3DViewer_7.2506.100… 7.2506.10022.0   
+Microsoft Edge Dev                          MSIX\Microsoft.MicrosoftEdge.Dev_140.0.3456… 140.0.3456.0     
+Microsoft Edge                              MSIX\Microsoft.MicrosoftEdge.Stable_138.0.3… 138.0.3351.109   
+Microsoft Minesweeper                       MSIX\Microsoft.MicrosoftMinesweeper_3.1.916… 3.1.9160.0       
+Solitaire & Casual Games                    MSIX\Microsoft.MicrosoftSolitaireCollection… 4.23.7100.0      
+Microsoft Memo                              MSIX\Microsoft.MicrosoftStickyNotes_6.1.4.0… 6.1.4.0          
+Microsoft Sudoku                            MSIX\Microsoft.MicrosoftSudoku_2.12.2221.0_… 2.12.2221.0      
+Portale realtà mista                        MSIX\Microsoft.MixedReality.Portal_2000.210… 2000.21051.1282… 
+Microsoft .Net Native Framework Package 1.3 MSIX\Microsoft.NET.Native.Framework.1.3_1.3… 1.3.24211.0      
+Microsoft .Net Native Framework Package 1.3 MSIX\Microsoft.NET.Native.Framework.1.3_1.3… 1.3.24211.0      
+Microsoft .Net Native Framework Package 1.7 MSIX\Microsoft.NET.Native.Framework.1.7_1.7… 1.7.27413.0      
+Microsoft .Net Native Framework Package 1.7 MSIX\Microsoft.NET.Native.Framework.1.7_1.7… 1.7.27413.0      
+Microsoft .Net Native Framework Package 2.1 MSIX\Microsoft.NET.Native.Framework.2.1_2.1… 2.1.27427.0      
+Microsoft .Net Native Framework Package 2.1 MSIX\Microsoft.NET.Native.Framework.2.1_2.1… 2.1.27427.0      
+Microsoft .Net Native Framework Package 2.2 MSIX\Microsoft.NET.Native.Framework.2.2_2.2… 2.2.29512.0      
+Microsoft .Net Native Framework Package 2.2 MSIX\Microsoft.NET.Native.Framework.2.2_2.2… 2.2.29512.0      
+Microsoft .Net Native Runtime Package 1.4   MSIX\Microsoft.NET.Native.Runtime.1.4_1.4.2… 1.4.24201.0      
+Microsoft .Net Native Runtime Package 1.4   MSIX\Microsoft.NET.Native.Runtime.1.4_1.4.2… 1.4.24201.0      
+Microsoft .Net Native Runtime Package 1.7   MSIX\Microsoft.NET.Native.Runtime.1.7_1.7.2… 1.7.27422.0      
+Microsoft .Net Native Runtime Package 1.7   MSIX\Microsoft.NET.Native.Runtime.1.7_1.7.2… 1.7.27422.0      
+Microsoft .Net Native Runtime Package 2.1   MSIX\Microsoft.NET.Native.Runtime.2.1_2.1.2… 2.1.26424.0      
+Microsoft .Net Native Runtime Package 2.1   MSIX\Microsoft.NET.Native.Runtime.2.1_2.1.2… 2.1.26424.0      
+Microsoft .Net Native Runtime Package 2.2   MSIX\Microsoft.NET.Native.Runtime.2.2_2.2.2… 2.2.28604.0      
+Microsoft .Net Native Runtime Package 2.2   MSIX\Microsoft.NET.Native.Runtime.2.2_2.2.2… 2.2.28604.0      
+Microsoft.Office.ActionsServer              MSIX\Microsoft.Office.ActionsServer_16.0.19… 16.0.19131.20000 
+OneNote for Windows 10                      MSIX\Microsoft.Office.OneNote_16001.14326.2… 16001.14326.225… 
+OfficePushNotificationsUtility              MSIX\Microsoft.OfficePushNotificationUtilit… 16.0.19131.20000 
+Piani dati mobili                           MSIX\Microsoft.OneConnect_5.2506.5003.0_x64… 5.2506.5003.0    
+Outlook for Windows                         MSIX\Microsoft.OutlookForWindows_1.2025.716… 1.2025.716.500   
+Contatti Microsoft                          MSIX\Microsoft.People_10.2202.100.0_x64__8w… 10.2202.100.0    
+Cattura e annota                            MSIX\Microsoft.ScreenSketch_10.2008.3001.0_… 10.2008.3001.0   
+Microsoft Engagement Framework              MSIX\Microsoft.Services.Store.Engagement_10… 10.0.23012.0     
+Microsoft Engagement Framework              MSIX\Microsoft.Services.Store.Engagement_10… 10.0.23012.0     
+Host esperienza dello Store                 MSIX\Microsoft.StorePurchaseApp_22506.1401.… 22506.1401.3.0   
+Microsoft To Do                             MSIX\Microsoft.Todos_2.148.3611.0_x64__8wek… 2.148.3611.0     
+Microsoft.UI.Xaml.2.0                       MSIX\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x… 2.1810.18004.0   
+Microsoft.UI.Xaml.2.0                       MSIX\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x… 2.1810.18004.0   
+Microsoft.UI.Xaml.2.3                       MSIX\Microsoft.UI.Xaml.2.3_2.32002.13001.0_… 2.32002.13001.0  
+Microsoft.UI.Xaml.2.3                       MSIX\Microsoft.UI.Xaml.2.3_2.32002.13001.0_… 2.32002.13001.0  
+Microsoft.UI.Xaml.2.4                       MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x… 2.42007.9001.0   
+Microsoft.UI.Xaml.2.4                       MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x… 2.42007.9001.0   
+Microsoft.UI.Xaml.2.5                       MSIX\Microsoft.UI.Xaml.2.5_2.52012.2002.0_x… 2.52012.2002.0   
+Microsoft.UI.Xaml.2.5                       MSIX\Microsoft.UI.Xaml.2.5_2.52012.2002.0_x… 2.52012.2002.0   
+Microsoft.UI.Xaml.2.6                       MSIX\Microsoft.UI.Xaml.2.6_2.62108.18004.0_… 2.62108.18004.0  
+Microsoft.UI.Xaml.2.6                       MSIX\Microsoft.UI.Xaml.2.6_2.62112.3002.0_x… 2.62112.3002.0   
+Microsoft.UI.Xaml.2.6                       MSIX\Microsoft.UI.Xaml.2.6_2.62112.3002.0_x… 2.62112.3002.0   
+Microsoft.UI.Xaml.2.7                       Microsoft.UI.Xaml.2.7                        7.2409.9001.0    
+Microsoft.UI.Xaml.2.7                       Microsoft.UI.Xaml.2.7                        7.2409.9001.0    
+Microsoft.UI.Xaml.2.7                       Microsoft.UI.Xaml.2.7                        7.2208.15002.0   
+Microsoft.UI.Xaml.2.7                       Microsoft.UI.Xaml.2.7                        7.2207.21001.0   
+Microsoft.UI.Xaml.2.7                       Microsoft.UI.Xaml.2.7                        7.2203.17001.0   
+Microsoft.UI.Xaml.2.8                       Microsoft.UI.Xaml.2.8                        8.2501.31001.0   
+Microsoft.UI.Xaml.2.8                       Microsoft.UI.Xaml.2.8                        8.2501.31001.0   
+Microsoft.UI.Xaml.2.8                       Microsoft.UI.Xaml.2.8                        8.2310.30001.0   
+Microsoft.UI.Xaml.2.8                       Microsoft.UI.Xaml.2.8                        8.2306.22001.0   
+Microsoft.UI.Xaml.2.8                       Microsoft.UI.Xaml.2.8                        8.2305.5001.0    
+Microsoft.UI.Xaml.2.8                       Microsoft.UI.Xaml.2.8                        8.2304.12003.0   
+Microsoft.UI.Xaml.2.8                       Microsoft.UI.Xaml.2.8                        8.2212.15002.0   
+Microsoft Visual C++ 2012 UWP Desktop Runt… MSIX\Microsoft.VCLibs.110.00.UWPDesktop_11.… 11.0.61135.0     
+Microsoft Visual C++ 2012 UWP Desktop Runt… MSIX\Microsoft.VCLibs.110.00.UWPDesktop_11.… 11.0.61135.0     
+Microsoft Visual C++ 2013 UWP Desktop Runt… MSIX\Microsoft.VCLibs.120.00.UWPDesktop_12.… 12.0.40653.0     
+Microsoft Visual C++ 2013 UWP Desktop Runt… MSIX\Microsoft.VCLibs.120.00.UWPDesktop_12.… 12.0.40653.0     
+Microsoft Visual C++ 2015 UWP Desktop Runt… Microsoft.VCLibs.Desktop.14                  14.0.33728.0     
+Microsoft Visual C++ 2015 UWP Desktop Runt… Microsoft.VCLibs.Desktop.14                  14.0.33728.0     
+Microsoft Visual C++ 2015 UWP Desktop Runt… Microsoft.VCLibs.Desktop.14                  14.0.33519.0     
+Microsoft Visual C++ 2015 UWP Desktop Runt… Microsoft.VCLibs.Desktop.14                  14.0.33519.0     
+Microsoft Visual C++ 2015 UWP Desktop Runt… Microsoft.VCLibs.Desktop.14                  14.0.33321.0     
+Microsoft Visual C++ 2015 UWP Desktop Runt… Microsoft.VCLibs.Desktop.14                  14.0.32530.0     
+Microsoft Visual C++ 2015 UWP Desktop Runt… Microsoft.VCLibs.Desktop.14                  14.0.30704.0     
+Microsoft Visual C++ 2015 UWP Desktop Runt… Microsoft.VCLibs.Desktop.14                  14.0.30035.0     
+Microsoft Visual C++ 2015 UWP Runtime Pack… MSIX\Microsoft.VCLibs.140.00_14.0.29231.0_x… 14.0.29231.0     
+Microsoft Visual C++ 2015 UWP Runtime Pack… MSIX\Microsoft.VCLibs.140.00_14.0.30035.0_x… 14.0.30035.0     
+Microsoft Visual C++ 2015 UWP Runtime Pack… MSIX\Microsoft.VCLibs.140.00_14.0.30704.0_x… 14.0.30704.0     
+Microsoft Visual C++ 2015 UWP Runtime Pack… MSIX\Microsoft.VCLibs.140.00_14.0.32530.0_x… 14.0.32530.0     
+Microsoft Visual C++ 2015 UWP Runtime Pack… MSIX\Microsoft.VCLibs.140.00_14.0.33321.0_x… 14.0.33321.0     
+Microsoft Visual C++ 2015 UWP Runtime Pack… MSIX\Microsoft.VCLibs.140.00_14.0.33519.0_x… 14.0.33519.0     
+Microsoft Visual C++ 2015 UWP Runtime Pack… MSIX\Microsoft.VCLibs.140.00_14.0.33519.0_x… 14.0.33519.0     
+VP9 Video Extensions                        MSIX\Microsoft.VP9VideoExtensions_1.2.6.0_x… 1.2.6.0          
+Microsoft Pay                               MSIX\Microsoft.Wallet_2.4.18324.0_x64__8wek… 2.4.18324.0      
+Estensioni file multimediali Web            MSIX\Microsoft.WebMediaExtensions_1.2.14.0_… 1.2.14.0         
+Estensioni immagini WebP                    MSIX\Microsoft.WebpImageExtension_1.2.10.0_… 1.2.10.0         
+Microsoft Whiteboard                        MSIX\Microsoft.Whiteboard_55.20610.576.0_x6… 55.20610.576.0   
+Widgets Platform Runtime                    MSIX\Microsoft.WidgetsPlatformRuntime_1.6.9… 1.6.9.0          
+Windows App Runtime DDLM 3.469.1654.0-x6    MSIX\Microsoft.WinAppRuntime.DDLM.3.469.165… 3.469.1654.0     
+Windows App Runtime DDLM 3.469.1654.0-x8    MSIX\Microsoft.WinAppRuntime.DDLM.3.469.165… 3.469.1654.0     
+Microsoft Foto                              MSIX\Microsoft.Windows.Photos_2025.11070.80… 2025.11070.8001… 
+Orologio Windows                            MSIX\Microsoft.WindowsAlarms_11.2503.4.0_x6… 11.2503.4.0      
+WindowsAppRuntime.1.0                       MSIX\Microsoft.WindowsAppRuntime.1.0_4.528.… 4.528.1755.0     
+WindowsAppRuntime.1.0                       MSIX\Microsoft.WindowsAppRuntime.1.0_4.528.… 4.528.1755.0     
+WindowsAppRuntime.1.2                       MSIX\Microsoft.WindowsAppRuntime.1.2_2000.8… 2000.802.31.0    
+WindowsAppRuntime.1.2                       MSIX\Microsoft.WindowsAppRuntime.1.2_2000.8… 2000.802.31.0    
+WindowsAppRuntime.1.3                       MSIX\Microsoft.WindowsAppRuntime.1.3_3000.9… 3000.934.1904.0  
+WindowsAppRuntime.1.3                       MSIX\Microsoft.WindowsAppRuntime.1.3_3000.9… 3000.934.1904.0  
+WindowsAppRuntime.1.4                       MSIX\Microsoft.WindowsAppRuntime.1.4_4000.1… 4000.1309.2056.0 
+WindowsAppRuntime.1.4                       MSIX\Microsoft.WindowsAppRuntime.1.4_4000.1… 4000.1309.2056.0 
+WindowsAppRuntime.1.5                       MSIX\Microsoft.WindowsAppRuntime.1.5_5001.2… 5001.214.1843.0  
+WindowsAppRuntime.1.5                       MSIX\Microsoft.WindowsAppRuntime.1.5_5001.2… 5001.275.500.0   
+WindowsAppRuntime.1.5                       MSIX\Microsoft.WindowsAppRuntime.1.5_5001.3… 5001.311.2039.0  
+WindowsAppRuntime.1.5                       MSIX\Microsoft.WindowsAppRuntime.1.5_5001.3… 5001.373.1736.0  
+WindowsAppRuntime.1.5                       MSIX\Microsoft.WindowsAppRuntime.1.5_5001.3… 5001.373.1736.0  
+WindowsAppRuntime.1.6                       MSIX\Microsoft.WindowsAppRuntime.1.6_6000.4… 6000.424.1611.0  
+WindowsAppRuntime.1.6                       MSIX\Microsoft.WindowsAppRuntime.1.6_6000.4… 6000.457.2140.0  
+WindowsAppRuntime.1.6                       MSIX\Microsoft.WindowsAppRuntime.1.6_6000.4… 6000.486.517.0   
+WindowsAppRuntime.1.6                       MSIX\Microsoft.WindowsAppRuntime.1.6_6000.5… 6000.519.329.0   
+WindowsAppRuntime.1.6                       MSIX\Microsoft.WindowsAppRuntime.1.6_6000.5… 6000.519.329.0   
+WindowsAppRuntime.1.7                       MSIX\Microsoft.WindowsAppRuntime.1.7_7000.5… 7000.522.1444.0  
+WindowsAppRuntime.1.7                       MSIX\Microsoft.WindowsAppRuntime.1.7_7000.5… 7000.522.1444.0  
+WindowsAppRuntime.Singleton                 MSIX\Microsoft.WindowsAppRuntime.Singleton_… 3.469.1654.0     
+Calcolatrice Windows                        MSIX\Microsoft.WindowsCalculator_11.2502.2.… 11.2502.2.0      
+Fotocamera Windows                          MSIX\Microsoft.WindowsCamera_2025.2505.2.0_… 2025.2505.2.0    
+Hub di Feedback                             MSIX\Microsoft.WindowsFeedbackHub_1.2506.12… 1.2506.12104.0   
+Mappe Windows                               MSIX\Microsoft.WindowsMaps_11.2506.3.0_x64_… 11.2506.3.0      
+Registratore vocale Windows                 MSIX\Microsoft.WindowsSoundRecorder_10.2103… 10.2103.28.0     
+Microsoft Store                             MSIX\Microsoft.WindowsStore_22506.1401.9.0_… 22506.1401.9.0   
+Terminale Windows                           Microsoft.WindowsTerminal                    1.22.12111.0     
+Windows Package Manager Source (winget) V2  MSIX\Microsoft.Winget.Source_2025.808.1626.… 2025.808.1626.55 
+Xbox TCUI                                   MSIX\Microsoft.Xbox.TCUI_1.24.10001.0_x64__… 1.24.10001.0     
+Xbox Console Companion                      MSIX\Microsoft.XboxApp_48.104.4001.0_x64__8… 48.104.4001.0    
+Xbox Game Bar Plugin                        MSIX\Microsoft.XboxGameOverlay_1.54.4001.0_… 1.54.4001.0      
+Game Bar                                    MSIX\Microsoft.XboxGamingOverlay_7.325.7090… 7.325.7090.0     
+Xbox Identity Provider                      MSIX\Microsoft.XboxIdentityProvider_12.115.… 12.115.1001.0    
+Xbox Game Speech Window                     MSIX\Microsoft.XboxSpeechToTextOverlay_1.21… 1.21.13002.0     
+Collegamento al telefono                    MSIX\Microsoft.YourPhone_1.25061.51.0_x64__… 1.25061.51.0     
+Lettore multimediale Windows                MSIX\Microsoft.ZuneMusic_11.2505.2.0_x64__8… 11.2505.2.0      
+Film e TV                                   MSIX\Microsoft.ZuneVideo_10.25071.10101.0_x… 10.25071.10101.0 
+WindowsAppRuntime.Main.1.0                  MSIX\MicrosoftCorporationII.WindowsAppRunti… 4.528.1755.0     
+Sottosistema Windows per Linux              MSIX\MicrosoftCorporationII.WindowsSubsyste… 2.5.9.0          
+NVIDIA Control Panel                        MSIX\NVIDIACorp.NVIDIAControlPanel_8.1.968.… 8.1.968.0        
+ChatGPT                                     MSIX\OpenAI.ChatGPT-Desktop_1.2025.202.0_x6… 1.2025.202.0     
+Local Artificial Intelligence Manager       MSIX\aimgr_0.20.20.0_x64__8wekyb3d8bbwe      0.20.20.0        
+ChatGPT                                     MSIX\chatgpt.com-DFCB3CE4_1.0.0.1_neutral__… 1.0.0.1          
+Claude                                      MSIX\claude.ai-18877962_1.0.0.0_neutral__4k… 1.0.0.0          
+Marketers PRO                               MSIX\community.wearemarketers.net-2D6F4FEC_… 1.0.0.1          
+Posta e Calendario                          MSIX\microsoft.windowscommunicationsapps_16… 16005.14326.223… 
+T3 Chat                                     MSIX\t3.chat-81705D33_1.0.0.0_neutral__4kcz… 1.0.0.0          
+X                                           MSIX\twitter.com-135FFC0D_1.0.0.2_neutral__… 1.0.0.2          
+WhatsApp Web                                MSIX\web.whatsapp.com-4DFCD4DE_1.0.0.5_neut… 1.0.0.5          
+X                                           MSIX\x.com-F41B462E_1.0.0.1_neutral__4p2c1p… 1.0.0.1          
