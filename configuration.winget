@@ -1,0 +1,339 @@
+# yaml-language-server: $schema=https://aka.ms/configuration-dsc-schema/0.2
+properties:
+  assertions:
+    - resource: Microsoft.Windows.Developer/OsVersion
+      directives:
+        description: Verify min OS version requirement
+        allowPrerelease: true
+      settings:
+        MinVersion: '10.0.22000'
+  resources:
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: ShareX
+      directives:
+        description: Install ShareX
+        securityContext: elevated
+      settings:
+        id: ShareX.ShareX
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Audacity
+      directives:
+        description: Install Audacity
+        securityContext: elevated
+      settings:
+        id: Audacity.Audacity
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: BitdefenderAgent
+      directives:
+        description: Install Bitdefender Agent
+        securityContext: elevated
+      settings:
+        id: Bitdefender.Bitdefender
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Ditto
+      directives:
+        description: Install Ditto
+        securityContext: elevated
+      settings:
+        id: Ditto.Ditto
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: DockerDesktop
+      directives:
+        description: Install Docker Desktop
+        securityContext: elevated
+      settings:
+        id: Docker.DockerDesktop
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Git
+      directives:
+        description: Install Git
+        securityContext: elevated
+      settings:
+        id: Git.Git
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: MicrosoftOneDrive
+      directives:
+        description: Install Microsoft OneDrive
+        securityContext: elevated
+      settings:
+        id: Microsoft.OneDrive
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: SmartConnect
+      directives:
+        description: Install Motorola Smart Connect
+        securityContext: elevated
+      settings:
+        id: Motorola.SmartConnect
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: LedgerLive
+      directives:
+        description: Install Ledger Live
+        securityContext: elevated
+      settings:
+        id: LedgerHQ.LedgerLive
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: MicrosoftODBCDriver17
+      directives:
+        description: Install Microsoft ODBC Driver 17 for SQL Server
+        securityContext: elevated
+      settings:
+        id: Microsoft.msodbcsql.17
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: 7zip
+      directives:
+        description: Install 7-Zip
+        securityContext: elevated
+      settings:
+        id: 7zip.7zip
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Zoom
+      directives:
+        description: Install Zoom
+        securityContext: elevated
+      settings:
+        id: Zoom.Zoom
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: NodeJS
+      directives:
+        description: Install Node.js LTS
+        securityContext: elevated
+      settings:
+        id: OpenJS.NodeJS.LTS
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: ImageGlass
+      directives:
+        description: Install ImageGlass
+        securityContext: elevated
+      settings:
+        id: DuongDieuPhap.ImageGlass
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: NvidiaPhysX
+      directives:
+        description: Install NVIDIA PhysX System Software
+        securityContext: elevated
+      settings:
+        id: Nvidia.PhysX
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: AmazonSAMCLI
+      directives:
+        description: Install AWS SAM CLI
+        securityContext: elevated
+      settings:
+        id: Amazon.SAM-CLI
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Calibre
+      directives:
+        description: Install Calibre
+        securityContext: elevated
+      settings:
+        id: calibre.calibre
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: MicrosoftWebDeploy
+      directives:
+        description: Install Microsoft Web Deploy
+        securityContext: elevated
+      settings:
+        id: Microsoft.WebDeploy
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Transmission
+      directives:
+        description: Install Transmission
+        securityContext: elevated
+      settings:
+        id: Transmission.Transmission
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: AgentRansack
+      directives:
+        description: Install Agent Ransack
+        securityContext: elevated
+      settings:
+        id: Mythicsoft.AgentRansack
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: PuTTY
+      directives:
+        description: Install PuTTY
+        securityContext: elevated
+      settings:
+        id: PuTTY.PuTTY
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: MySQLWorkbench
+      directives:
+        description: Install MySQL Workbench
+        securityContext: elevated
+      settings:
+        id: Oracle.MySQLWorkbench
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: ProjectLibre
+      directives:
+        description: Install ProjectLibre
+        securityContext: elevated
+      settings:
+        id: ProjectLibre.ProjectLibre
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: VisualStudioCommunity2022
+      directives:
+        description: Install Visual Studio Community 2022
+        securityContext: elevated
+      settings:
+        id: Microsoft.VisualStudio.2022.Community
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: AnyDesk
+      directives:
+        description: Install AnyDesk
+        securityContext: elevated
+      settings:
+        id: AnyDesk.AnyDesk
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Brave
+      directives:
+        description: Install Brave Browser
+        securityContext: elevated
+      settings:
+        id: Brave.Brave
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Dropbox
+      directives:
+        description: Install Dropbox
+        securityContext: elevated
+      settings:
+        id: Dropbox.Dropbox
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Discord
+      directives:
+        description: Install Discord
+        securityContext: elevated
+      settings:
+        id: Discord.Discord
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Figma
+      directives:
+        description: Install Figma
+        securityContext: elevated
+      settings:
+        id: Figma.Figma
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: GIMP3
+      directives:
+        description: Install GIMP 3
+        securityContext: elevated
+      settings:
+        id: GIMP.GIMP.3
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: MongoDBCompass
+      directives:
+        description: Install MongoDB Compass
+        securityContext: elevated
+      settings:
+        id: MongoDB.Compass.Full
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Postman
+      directives:
+        description: Install Postman
+        securityContext: elevated
+      settings:
+        id: Postman.Postman
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Spotify
+      directives:
+        description: Install Spotify
+        securityContext: elevated
+      settings:
+        id: Spotify.Spotify
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Obsidian
+      directives:
+        description: Install Obsidian
+        securityContext: elevated
+      settings:
+        id: Obsidian.Obsidian
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: ClickUp
+      directives:
+        description: Install ClickUp
+        securityContext: elevated
+      settings:
+        id: ClickUp.ClickUp
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: TelegramDesktop
+      directives:
+        description: Install Telegram Desktop
+        securityContext: elevated
+      settings:
+        id: Telegram.TelegramDesktop
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Keyviz
+      directives:
+        description: Install Keyviz
+        securityContext: elevated
+      settings:
+        id: mulaRahul.Keyviz
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: VisualStudioCode
+      directives:
+        description: Install Visual Studio Code
+        securityContext: elevated
+      settings:
+        id: Microsoft.VisualStudioCode
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Python312
+      directives:
+        description: Install Python 3.12
+        securityContext: elevated
+      settings:
+        id: Python.Python.3.12
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: Ubuntu
+      directives:
+        description: Install Ubuntu
+        securityContext: elevated
+      settings:
+        id: Canonical.Ubuntu
+        source: winget
+    - resource: Microsoft.WinGet.DSC/WinGetPackage
+      id: WindowsTerminal
+      directives:
+        description: Install Windows Terminal
+        securityContext: elevated
+      settings:
+        id: Microsoft.WindowsTerminal
+        source: winget
+  configurationVersion: 0.2.0
